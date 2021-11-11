@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background-color: #0e0e0e;
+}
+/* you also need to add a width and a height to theat output element */
+.output {
+    width: 400px;
+    height: 600px;
+    /* you can see the image blending works perfectly */
+    /* now I'll show you other displacement images you can use */
+}
